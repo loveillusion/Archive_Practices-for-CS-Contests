@@ -1,0 +1,3 @@
+C:/Users/25105/CLionProjects/High/lgP1181/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/25105/CLionProjects/High/lgP1181/cmake-build-debug/CMakeFiles/lgP1181.dir
+C:/Users/25105/CLionProjects/High/lgP1181/cmake-build-debug/CMakeFiles/edit_cache.dir
