@@ -1,0 +1,3 @@
+C:/Users/25105/CLionProjects/lgP1023/cmake-build-debug/CMakeFiles/lgP1023.dir
+C:/Users/25105/CLionProjects/lgP1023/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/25105/CLionProjects/lgP1023/cmake-build-debug/CMakeFiles/rebuild_cache.dir
