@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\CCC2018s2.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\CCC2018s2.dir/objects.a @CMakeFiles\CCC2018s2.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\CCC2018s2.dir/objects.a -Wl,--no-whole-archive  -o CCC2018s2.exe -Wl,--out-implib,libCCC2018s2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CCC2018s2.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+C:/Users/25105/CLionProjects/High/CCC2018s1/cmake-build-debug/CMakeFiles/CCC2018s1.dir
+C:/Users/25105/CLionProjects/High/CCC2018s1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/25105/CLionProjects/High/CCC2018s1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
