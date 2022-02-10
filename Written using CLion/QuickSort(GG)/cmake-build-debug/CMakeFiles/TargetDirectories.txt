@@ -1,0 +1,3 @@
+C:/Users/25105/CLionProjects/QuickSort(GeekforGeeks)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/25105/CLionProjects/QuickSort(GeekforGeeks)/cmake-build-debug/CMakeFiles/QuickSort.dir
+C:/Users/25105/CLionProjects/QuickSort(GeekforGeeks)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
