@@ -1,0 +1,3 @@
+C:/Users/25105/CLionProjects/lgP1464/cmake-build-debug/CMakeFiles/lgP1464.dir
+C:/Users/25105/CLionProjects/lgP1464/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/25105/CLionProjects/lgP1464/cmake-build-debug/CMakeFiles/rebuild_cache.dir
