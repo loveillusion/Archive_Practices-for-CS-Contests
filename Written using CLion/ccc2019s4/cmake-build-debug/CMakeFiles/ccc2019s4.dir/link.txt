@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ccc2019s4.dir/objects.a
+C:\mingw\bin\ar.exe cr CMakeFiles\ccc2019s4.dir/objects.a @CMakeFiles\ccc2019s4.dir\objects1.rsp
+C:\mingw\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\ccc2019s4.dir/objects.a -Wl,--no-whole-archive  -o ccc2019s4.exe -Wl,--out-implib,libccc2019s4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ccc2019s4.dir\linklibs.rsp
