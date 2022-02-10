@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\lgP1067.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\lgP1067.dir/objects.a @CMakeFiles\lgP1067.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\lgP1067.dir/objects.a -Wl,--no-whole-archive  -o lgP1067.exe -Wl,--out-implib,liblgP1067.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\lgP1067.dir\linklibs.rsp
